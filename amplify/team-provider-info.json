@@ -1,0 +1,22 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-fbreactauth-dev-203915-authRole",
+            "UnauthRoleArn": "arn:aws:iam::158061096333:role/amplify-fbreactauth-dev-203915-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::158061096333:role/amplify-fbreactauth-dev-203915-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-fbreactauth-dev-203915-deployment",
+            "UnauthRoleName": "amplify-fbreactauth-dev-203915-unauthRole",
+            "StackName": "amplify-fbreactauth-dev-203915",
+            "StackId": "arn:aws:cloudformation:us-east-1:158061096333:stack/amplify-fbreactauth-dev-203915/b4e5cdd0-73bb-11eb-b7ca-0ada7ccc8ac7",
+            "AmplifyAppId": "d8ly1s55kdo7h"
+        },
+        "categories": {
+            "auth": {
+                "fbreactauth9fd3d3e9": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"229668295560742\",\"client_secret\":\"8630d605955e770dd144a7f7fc96d498\"}]"
+                }
+            }
+        }
+    }
+}
